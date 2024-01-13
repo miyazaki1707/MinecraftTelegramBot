@@ -1,0 +1,4 @@
+name: TelegramBotServer
+version: '${project.version}'
+main: com.soramiyazaki.telegrambotserver.TelegramBotServer
+api-version: '1.20'

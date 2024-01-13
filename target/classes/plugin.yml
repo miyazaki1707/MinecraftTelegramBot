@@ -1,0 +1,4 @@
+name: TelegramBotServer
+version: '1.0-SNAPSHOT'
+main: com.soramiyazaki.telegrambotserver.TelegramBotServer
+api-version: '1.20'
