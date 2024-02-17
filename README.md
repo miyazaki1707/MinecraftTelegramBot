@@ -14,7 +14,3 @@ telegram-bot-name: your-bot-name
 </li>
 <li>Set up a paper Minecraft Server and put .jar plugin file there.</li>
 </ol>
-
-<h3>Watch this YouTube video</h3>
-
-<a href="https://www.youtube.com/channel/UCaBWImQpScJedxk5amKE4JA"></a>
