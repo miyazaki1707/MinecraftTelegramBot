@@ -1,8 +1,7 @@
 <h1>Minecraft Telegram Server Plugin</h1>
 <h3>Overview</h3>
 
-This Minecraft plugin allows you to integrate a Telegram bot with your Minecraft server, so you can kill some players, spawn a GIANT zombie and so on.
-
+This Minecraft plugin allows you to integrate a Telegram bot with your Minecraft server.
 <h3>Configuration</h3>
 
 <ol>
